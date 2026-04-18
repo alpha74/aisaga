@@ -3,7 +3,7 @@
 
 ## AI Saga for Backend developers
 
-(I keep updating the content currently)
+(I keep updating the content currently, latest first listing)
 
 - [AI Saga 26](https://aisaga26.vercel.app/)
 - [Claude Digest 2026-1](https://github.com/alpha74/webcv/blob/master/claude/digest1.md)
